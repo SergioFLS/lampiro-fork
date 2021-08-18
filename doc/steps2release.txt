@@ -1,0 +1,21 @@
+1) commit the new version remember that the desired antenna switches are: UI=1,LANG="en"  
+2) check the release version and MIDlet-Version in :
+	- manifest.mf 
+	- lampiro.jad
+	- it/yup/xmpp/Config.java -> Config.version (TODO: read from manifest)
+	- user-build[.*].properties
+3) check manifest.* values in user-build[.*].properties
+4) check optimizationpasses in user-build.properties (usually 10) 
+5) build all (deploy.sh: have a cup of coffee)
+6) the three releases (base, compression, TLS) are in the releases version 
+7) make a tag on SVN (with the name version)
+8) modify the changelog in googlecode
+								Note:
+Antenna switches
+MIDP:				uses the J2ME only classes/libraries
+UI:					uses Bluendo user interface
+COMPRESSION:		COMPRESSION switches
+TLS:				TLS switches
+UI_DEBUG:			dump of ui debug info
+BLUENDO_REG:		bluendo secured registration
+LANG= "<ll>":		uses the <ll> lang

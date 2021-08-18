@@ -1,0 +1,305 @@
+1	Zavřít
+2	Uživ. jméno
+3	Heslo
+4	Čekejte prosím
+5	Přihlásit
+6	Konec
+7	Debug
+8	Pokračovat
+9	Ano
+10	Ne
+11	Odeslat
+12	Uložit
+13	Zadejte Jabber ID nebo adresu Google Talk
+14	Zobrazená přezdívka
+15	Skupina
+16	Instrukce
+17	Odeslat
+18	Zrušit
+19	Vymazat
+20	Zpět
+21	Adresa serveru
+22	<vybrat>
+23	OK
+24	Předch.
+25	Další
+26	Registrace
+27	Povinná pole musí být vyplněna
+28	Autom. připojení
+29	O aplikaci
+30	Varování
+31	Skrýt
+32	Ukázat instrukce
+33	Později
+34	Smazat
+35	Chyba
+36	MENU
+37	AKCE
+38	VYBRAT
+39	Ukázat offline kontakty
+40	Import kontaktů
+41	Brány
+42	registrační data odeslána, existující kontakty budou importovány. Pokud registrace selže, zkontrolujte uživ. jméno a heslo a zkuste to znovu.
+43	Skrýt offline kontakty
+44	Im network
+45	Obnovit
+46	Přenos
+47	Nápověda
+48	Dostupné menu v okně chatu:< - vlevo: akce vázané na vybraný kontakt< - vpravo: hlavní akce< Zkratky a navigace:<1) dolů a nahoru: přesun označení dolů a nahoru<2) střed: chat s vybraným kontaktem<3) vlevo a vpravo: navigace mezi otevřenými chaty<4) písmeno: filtr kontaktů (vlevo - zrušit výběr)<5) '*' stisknutá 2x'': skok na otevřený chat<
+49	Popis
+50	Chyba během registrace
+51	Vyberte uživ. jméno a Jabber server jako Gmail.com, jabber.bluendo.com, jabber.org, nebo jiný odpovídající Jabber server.
+52	Toto je vaše první přihlášení!< Pokud chcete přidat kontakty z MSN, Yahoo, ICQ a Aim, vyberte "IM brány" z menu nebo ze seznamu kontaktů.< Pokud chcete přidat kontakt, vyberte Přidat kontakt z menu.
+53	Výchozí status
+54	Načítání ...
+55	ID kontaktu
+56	Otevřít server
+57	Jméno
+58	Přezdívka
+59	Máte již Jabber účet (GTalk, jabber.org, ...)?
+60	Nový kontakt
+61	Přenosy souborů
+62	Dokončeno
+63	Pokračuje se
+64	Neaktivní
+65	Potvrdit
+66	Hesla nejsou stejná
+67	nedostupné
+68	Čekání na potvrzení
+69	Odmítnuto
+70	Jediným přihlášením můžete přidat kontakty Jabber, MSN, Yahoo, ICQ a Aim
+71	Nastavení kláves
+72	Zavřít aplikaci
+73	Stará zpráva
+74	Priorita klienta Lampiro je nižší než některých jiných; můžete to změnit v okně statusu
+75	Telefon čeká, zprávy mohou zůstat nepřečtené
+76	Novinky
+77	Služby
+78	Odeslat kód
+79	Aktualizace
+80	byl aktualizován na verzi SOFTWARE_VERSION. Pokud něco nebude fungovat, resetujte nastavení.
+81	E-mail
+82	Autorizace
+83	Zdroje
+84	JID
+85	tam i zpět
+86	tam
+87	zpět
+88	neznámé
+89	není
+90	Chcete se přihlásit?
+91	Povolit
+100	Napsat zprávu
+101	Chat s
+102	Vymazat chat
+103	... nové zprávy ...
+104	Otevřít url
+105	Pozvat kontakt
+106	Rozbalit
+107	Přeposlat zprávu
+108	Přeposlat
+109	Pro
+110	Přeposlaná zpráva od
+111	Účastníci
+112	Zobrazené jméno
+113	Automaticky
+114	Ručně
+115	OK
+200	Jabber ID
+201	volitelné
+202	E-mailová adresa
+203	Registrace nového účtu
+204	Uživ. jméno Lampiro
+205	Registrace selhala
+206	Nelze vytvořit zvolené uživatelské jméno. Důvod:
+207	Přihlášení selhalo
+208	Přihlášení selhalo se současným nastavením. Důvod:
+209	Rozšířené volby
+210	Připojování k serveru
+211	Přihlašování...
+212	Skupinový chat
+213	Vybrat jméno
+214	Přijmout pozvánku na skupinový chat od
+215	Opustit skupinový chat
+216	se připojil k
+217	opustil
+218	Téma
+219	Určit téma
+220	registrace nepovolena.
+221	uživ. jméno již existuje.
+222	Zapnout kompresi
+223	Lampiro vyžaduje připojení k internetu. Musíte aplikaci Lampiro připojení povolit. Některé servery nemusí podporovat kompresi nebo TLS. Pokud máte problémy, zkuste tyto funkce vypnout.
+224	Poznámka
+225	Povolit TLS
+226	Stop přihlášení
+227	Toto je první start aplikace Lampiro.<Pokud klávesy menu nefungují, zvolte "Nastavení kláves" na displeji ke spuštění nastavení.< Další volby můžete změnit v okně nastavení v aplikaci.< Pokračujte stiskem středu.
+228	Stiskněte klávesu, kterou chcete přiřadit k levému menu.
+229	Stiskněte klávesu, kterou chcete přiřadit k pravému menu.
+230	Potvrďte klávesu levého menu.
+231	Potvrďte klávesu pravého menu.
+232	Děkuji, stiskem klávesy pokračujte.
+233	Stiskněte stejnou klávesu!
+234	Vybraná klávesa je neplatná
+235	Stiskněte klávesu
+236	Klávesa je umístěna pod aktuálně zobrazeným menu.
+237	Nastavení kláves
+238	Připojení selhalo
+239	Připojení ztraceno
+240	Chybné uživ. jméno nebo heslo
+241	Připojeno
+242	TLS inicializováno
+243	Komprese inicializována
+244	Ověřeno
+245	Inicializováno
+246	Reset nastavení a přihlášení
+247	Reset všech dat a přihlášení
+248	Smazat skupinový chat
+249	Název místnosti
+250	Připojit ke skup. chatu
+251	Přidat do záložek
+252	Ano, vždy
+253	Ne, nikdy
+254	Připojit/Vytvořit skup. chat
+255	Ano, pouze z Lampiro
+256	Ano, pouze z jiných klientů
+257	Autom. připojení
+258	Pozvání odesláno 
+259	Přejmenovat kontakt
+260	Info příkaz
+261	Data
+262	Připojení
+263	Data odeslána: čekání na odpověď ze serveru
+264	Příkaz zrušen: čekání na odpověď ze serveru
+265	Úkol byl zrušen
+266	Úkol byl dokončen
+267	Chyba při spouštění příkazu
+268	Typ serveru
+300	Odeslat zprávu 
+500	Vyplnit formulář
+700	Odeslat zprávu
+701	Chat
+702	Upravit kontakt
+703	Přidat kontakt
+704	Smazat kontakt
+705	Nastavit status
+706	Seznam kontaktů
+707	Dotazovací příkazy
+708	Seznam příkazů
+709	Obnovit kontakty
+710	Čekající úkoly
+711	Detaily
+712	Vyfotit obrázek
+713	Vyfotit
+714	Obrázek
+715	Kontakty
+716	Název souboru
+718	chce ti poslat soubor:
+719	Přenos souboru
+720	Nahrát zvuk
+721	Zvuk
+722	Stop
+723	Přehrát
+724	Multimediální album
+725	Uložit do multimediálního alba
+727	nelze přijmout přenos souboru:
+728	nelze načíst soubor:
+729	Odeslat soubor
+730	Obnovit roster
+731	Odeslat obrázek
+732	Odeslat zvuk
+733	Bez skupiny
+734	Hledat
+735	Zvýraznění
+736	Nastavit skupinu
+737	Seznam skupin
+738	Nová skupina
+739	Existující skupina
+740	Přesunout
+741	Otevřít
+742	Rozbalit
+743	Odhlásit
+744	je
+745	online
+746	offline
+747	Odeslat skupin. zprávu
+748	Velikost
+749	Stisknutím středu vyfoťte
+751	Znovu autorizovat
+752	Znovu žádat autorizaci
+753	Vaše album je prázdné. Nejdřív musíte vytvořit nějaké obrázky nebo zvuky.
+754	Spravovat skupin. chat
+755	Smazáním skupinový chat definitivně odstraníte, uživatelé budou odpojení; tato operace je nevratná.
+756	IM účty
+757	Přihlásit/Odhlásit
+758	Odregistrovat síť
+759	Aktivní spojení
+760	Změnit název skupiny
+761	Nová verze
+762	Tato verze Lampiro již není aktuální. Stáhněte si aktualizaci z domovské stránky.
+800	Nastavit status
+801	Vybrat status
+802	Zpráva statusu
+803	Priorita
+804	Zdroj
+900	Požadavek na připojení
+901	chce upravit váš roster
+902	Chcete to povolit?
+903	Povolit vše
+904	Vždy povolit
+905	Požadavek na připojení
+908	odeslán
+911	Nahrál jsem ti soubor na:
+912	Odmítnout
+1001	Vybrat příkaz
+1002	Spustit
+1003	Historie úkolů
+1004	Žádné dostupné příkazy.
+1005	Dostupné příkazy pro:
+1101	Chyba při zpracování příkazu
+1200	Nastavení
+1201	Při přijímání zprávy
+1202	Vibrace pokud je Lampiro
+1203	skryté
+1204	aktivní
+1205	Přehrát tón pokud je Lampiro
+1206	Hlasitost tónu
+1207	Interval udrž. paketů
+1208	Některé nové nastavení se projeví až při příštím startu
+1209	Motiv
+1210	Červená
+1211	Zelená
+1212	Modrá
+1213	Malé
+1214	Střední
+1215	Velké
+1216	Velikost písma
+1217	Výchozí hodnoty
+1218	Velikost historie chatu
+1219	Velikost alba multimédií
+1220	Zapnout klávesnici qwerty
+1221	Orange
+1222	Rozlišení fotoaparátu
+1223	Výchozí
+1224	Nízké <160x120>
+1225	Střední <320x240>
+1226	Vysoké <640x480>
+1227	Velmi vysoké <1024x768>
+1228	Chyba při přístupu k fotoaparátu
+1229	Velikost písma menu
+1300	novinek
+1301	Počet novinek
+1302	Označit jako nepřečtené
+1303	Zpráva byla přeposlána
+1304	Ukázat vše
+1305	Ukázat nepřečtené
+1306	Označit vše jako nepřečtené
+1307	Odstranit kanál
+1308	Načteno
+1309	Synchronizace
+1310	Synchronizace dokončena
+1311	Synchronizace všeho
+1312	Nyní neodebíráte žádný kanál.
+1313	Synchronizace a jít offline
+1314	Stop synch.
+1315	Synch. statusu
+100000	dummy

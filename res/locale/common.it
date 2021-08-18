@@ -1,0 +1,305 @@
+1	Chiudi
+2	Username
+3	Password
+4	Attendere prego
+5	Login
+6	Esci
+7	Debug
+8	Continua
+9	Si
+10	No
+11	Invia
+12	Salva
+13	Inserire l'id jabber del contatto o l'indirizzo di google talk
+14	Nickname visualizzato
+15	Gruppo
+16	Istruzioni
+17	Invia
+18	Annulla
+19	Pulisci
+20	Indietro
+21	Nome del server
+22	<Scegliere>
+23	Accetta
+24	Indietro
+25	Avanti
+26	Registra
+27	E' necessario completare il form prima di continuare
+28	Autoriconnessione
+29	Informazioni
+30	Attenzione
+31	Nascondi
+32	Mostra istruzioni
+33	Compila in seguito
+34	Elimina
+35	Errore
+36	MENU
+37	AZIONI
+38	SCEGLI
+39	Mostra contatti offline
+40	Importa contatti
+41	Gateways
+42	informazioni di registrazione inviate, i contatti esistenti verranno importati automaticamente. Se la registrazione fallisce controllare username e password e procedere nuovamente con la registrazione.
+43	Nascondi contatti offline
+44	IM network
+45	Aggiorna
+46	Traffico
+47	Help
+48	Schermo del roster, menu disponibili:< - sinistra: azioni relative al contatto selezionato< - destra: azioni generali< Scorciatoie e navigazione:<1) tasti su e giù: muove la selezione in alto ed in basso<2) tasto FIRE: chatta con il contatto selezionato<3) destra e sinistra: naviga tra gli schermi attivi<4) tasti lettera: filtra contatti (il tasto sinistra azzera la selezione)<5) '*' premuto per 2'': mostra gli schermi aperti<
+49	Descrizione
+50	Errore durante la registrazione
+51	Scegli lo username ed il server jabber come Gmail.com, jabber.bluendo.com, jabber.org, o ogni altro server compatibile.
+52	Primo login!< Per aggiungere contatti di MSN, Yahoo, ICQ e Aim scegliere "Importa Contatti" dal menu o dalla lista contatti.< Per aggiugere contatti scegliere "aggiungi contatti" dal menu.
+53	Status iniziale
+54	Caricamento ...
+55	Id contatto
+56	Esplora server
+57	Nome
+58	Nickname
+59	Hai già un account jabber (GTalk, jabber.org, ...)?
+60	Nuovo contatto
+61	Stato trasferimento file
+62	Completato
+63	In corso
+64	Nessun trasferimento attivo
+65	Conferma
+66	Password differenti
+67	non disponibile
+68	In attesa di accettazione
+69	Rifiutato
+70	Una volta loggato potrai aggiungere contatti Jabber, MSN, Yahoo, ICQ e Aim
+71	Configurazione tastiera
+72	Chiudi applicazione
+73	Messaggio vecchio
+74	La priorità del Lampiro è più bassa di quella degli altri client; puoi cambiarla nello screen di status
+75	Telefono occupato, i messaggi potrebbero non essere letti subito
+76	News
+77	Servizi
+78	Invia codice
+79	Update
+80	è stato aggiornato alla versione SOFTWARE_VERSION. In caso di malfunzionamenti provare a resettare la configurazione.
+81	E-mail
+82	Sottoscrizione
+83	Risorse
+84	JID
+85	both
+86	to
+87	from
+88	unknown
+89	none
+90	Vuoi effettuare nuovamente il login?
+91	Abilita
+100	Scrivi messaggio
+101	Chatta con
+102	Azzera chat
+103	... nuovi messaggi ...
+104	utilizza url
+105	Invita contatto
+106	Espandi
+107	Inoltra il messaggio selezionato
+108	Inoltra
+109	A
+110	Messaggio inoltrato da
+111	Partecipanti
+112	Nome visualizzato
+113	Automatico
+114	Manuale
+115	OK
+200	Jabber ID
+201	opzionale
+202	Indirizzo email
+203	Registra un nuovo account
+204	Login del Lampiro
+205	Registrazione fallita
+206	Impossibile creare l'utente desiderato. Motivo:
+207	Login Fallito
+208	Login fallito con le impostazioni attuali. Motivo:
+209	Opzioni avanzate
+210	Connessione al server
+211	Logging in...
+212	Chat di gruppo
+213	Scegli nome
+214	Accetta invito a chat di gruppo da
+215	Lasciare chat di gruppo
+216	si è aggiunto a
+217	ha lasciato la
+218	Topic
+219	Imposta topic
+220	registrazione non permessa.
+221	utente già esistente.
+222	Abilita compressione
+223	Lampiro necessita di una connessione dati. Se richiesto, è necessario autorizzare Lampiro per utilizzare la connessione dati. Alcuni server possono non supportare compressione o TLS. In caso di problemi di connessione disabilitare queste opzioni.
+224	Note
+225	Abilita TLS
+226	Stop login
+227	Sembra che sia la prima volta che utilizzi Lampiro.<Se i tasti menu non funzionano utilizzare il comando "Configurazione tastiera" nel prossimo schermo per lanciare lo strumenti di configurazione della tastiera.< La grandezza del testo, la tastiera ed altre opzioni possono essere configurate dal menu opzioni nello schermo dei contatti.< Premi FIRE per continuare.
+228	Premi il pulsante che si desidera associare al menu di sinistra.
+229	Premi il pulsante che si desidera associare al menu di destra.
+230	Conferma il tasto per il menu di sinistra.
+231	Conferma il tasto per il menu di destra.
+232	Grazie, premi un tasto per continuare.
+233	Premi di nuovo il medesimo tasto!
+234	Il tasto selezionato non è valido
+235	Premere un tasto
+236	Di solito il tasto è posizionato sotto il menu visualizzato
+237	Configurazione tasti
+238	Connessione fallita
+239	Connessione persa
+240	Username o password errati
+241	Connesso
+242	TLS inizializzato
+243	Compressione inizializzata
+244	Autenticato
+245	Inizializzato
+246	Azzera configurazione e login
+247	Azzera tutti i dati salvati e login
+248	Elimina chat di gruppo
+249	Nome chat di gruppo
+250	Entra in una chat di gruppo
+251	Aggiungi a preferiti
+252	Si, sempre
+253	No, mai
+254	Entra/crea chat di gruppo
+255	Si, solo dal Lampiro
+256	Si, solo dagli altri client
+257	Entra automaticamente
+258	Invito spedito a
+259	Rinomina contatto
+260	Info Command
+261	Dati
+262	Connessione
+263	Dati inviati: in attesa di risposta dal server
+264	Comando cancellato: in attesa di risposta dal server
+265	Comando annullato con successo
+266	Comando terminato
+267	Errore durante l'esecuzione del task
+268	Tipo server
+300	Invia messaggio a
+500	Completa il form
+700	Invia messaggio
+701	Chat
+702	Modifica contatto
+703	Aggiungi contatto
+704	Elimina contatto
+705	Imposta lo status
+706	Lista contatti
+707	Menu comandi
+708	Lista comandi
+709	Ricarica contatti
+710	Task in corso
+711	Dettagli
+712	Cattura immagine
+713	Cattura
+714	Immagine
+715	Contatti
+716	Nome file
+718	vuole inviarti un file:
+719	Trasferimento file
+720	Registra audio
+721	Audio
+722	Stop
+723	Play
+724	Album multimediale
+725	Salva nell'album multimediale
+727	impossibile accettare il trasferimento del file:
+728	impossibile riconoscere il tipo del file:
+729	Invia file
+730	Aggiorna lista contatti
+731	Invia immagine
+732	Invia audio
+733	Contatti
+734	Cerca
+735	In evidenza
+736	Imposta gruppi
+737	Lista gruppi
+738	Nuovo gruppo
+739	Gruppi esistenti
+740	Muovi
+741	Apri
+742	Espanso
+743	Logout
+744	è
+745	online
+746	offline
+747	Messaggio di gruppo
+748	Dimensione
+749	Premere <FIRE> per catturare
+751	Reinvia autorizzazione
+752	Chiedere nuovamente autorizzazione
+753	Il tuo album è vuoto. Prima devi salvare immagini o file.
+754	Impostazioni
+755	Eliminare una chat di gruppo la rimuoverà definitivamente e tutti gli utenti verranno disconnessi; questa operazione non può essere annullata.
+756	Reti di messaging
+757	Log on / Log off
+758	Deregistrare network
+759	Sessioni attive
+760	Cambia nome gruppo
+761	Nuova versione
+762	Questa release di Lampiro non è più utilizzabile. Aggiornare alla versione successiva dal sito opportuno. 
+800	Imposta status
+801	Scegli status
+802	Messaggio di status
+803	Priorita
+804	Risorsa
+900	Richiesta di sottoscrizione
+901	vuole modificare la tua lista contatti
+902	Accetti?
+903	Accetta tutto
+904	Accetta sempre
+905	Richiesta di sottoscrizione presenza
+908	inviato a
+911	Ho salvato un file per te a:
+912	Rifiuta
+1001	Scegli un comando
+1002	Esegui
+1003	Storico dei task
+1004	Nessun comando disponibile.
+1005	Comandi disponibili per:
+1101	Errore durante il processamento del comando
+1200	Impostazioni
+1201	Quando si ricevono nuovi messaggi
+1202	Vibra se Lampiro è
+1203	nascosto
+1204	attivo
+1205	Emetti suono se Lampiro è
+1206	Volume suono
+1207	Intervallo di Keep-alive
+1208	Alcune nuove opzioni saranno attive dopo il prossimo avvio
+1209	Tema
+1210	Rosso
+1211	Verde
+1212	Blu
+1213	Piccolo
+1214	Medio
+1215	Grande
+1216	Dimensione testo
+1217	Opzioni di default
+1218	Lunghezza dello storico della chat
+1219	Dimensione album multimediale
+1220	Abilita tastiera qwerty
+1221	Arancione
+1222	Risoluzione fotocamera
+1223	Default
+1224	Piccola <160x120>
+1225	Media <320x240>
+1226	Alta <640x480>
+1227	Molto alta <1024x768>
+1228	Errore durante l'accesso alla fotocamera
+1229	Dimensione testo menu
+1300	nuove news
+1301	Numero di news memorizzate
+1302	Marca non letta
+1303	Il messaggio è stato inoltrato
+1304	Mostra tutte
+1305	Mostra non lette
+1306	Marca tutte come lette
+1307	Cancella feed
+1308	Da caricare
+1309	Sincronizza
+1310	Sincronizzazione dati effettuata
+1311	Sincronizza tutti i feed
+1312	Non hai nessuna sottoscrizione ai feed al momento
+1313	Sinc e vai offline
+1314	Stop sincronizzazione
+1315	Stato sincronizzazione
+100000	dummy

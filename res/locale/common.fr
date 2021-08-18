@@ -1,0 +1,305 @@
+1	Fermer
+2	Nom d'utilisateur
+3	Mot de passe
+4	Attendez s'il vous plaît
+5	Connectez-vous
+6	Sortir
+7	Debug
+8	Continuez
+9	Oui
+10	Non
+11	Envoyer
+12	Enregistrez
+13	Entrez id jabber contact ou une adresse Google Talk
+14	surnom affiché
+15	Groupe
+16	Instructions
+17	Envoyer
+18	Annuler
+19	Effacer
+20	Retour
+21	Nom du serveur
+22	<Choose>
+23	Accepter
+24	Précédent
+25	Suivant
+26	Registre
+27	Un champ obligatoire doit être rempli avant de continuer
+28	autoreconnect
+29	À propos de
+30	Avertissement
+31	Masquer
+32	instructions Show
+33	Remplissez tard
+34	Supprimer
+35	Erreur
+36	MENU
+37	actions
+38	SELECT
+39	Voir les contacts hors ligne
+40	Importer des contacts
+41	portes d'entrée
+42	Les données d'inscription envoyé, les contacts existants seront importés automatiquement. Si l'enregistrement échoue s'il vous plaît vérifier nom d'utilisateur et mot de passe et enregistrer à nouveau.
+43	Masquer les contacts hors ligne
+44	Im réseau
+45	Actualiser
+46	Traffic
+47	Aide
+48	l'écran Liste, les menus disponibles: <- à gauche: actions effectuées sur le <contact sélectionné - droite: actions générales de raccourcis <et de navigation: <1) touches haut et bas: déplacer la sélection vers le haut et vers le bas <2) bouton de tir: discuter avec le contact sélectionné <3) à gauche et à droite: naviguer dans les écrans ouverts <4) touches de lettres: '*' filtrer vos contacts (à gauche réinitialise la touche de sélection) <5) enfoncée pendant 2'': le saut à un <écran ouvert
+49	Description
+50	Erreur lors de l'inscription
+51	S'il vous plaît choisir un nom d'utilisateur et un serveur jabber comme Gmail.com, jabber.bluendo.com, jabber.org, ou n'importe quel serveur jabber d'autres conformes.
+52	Il s'agit de votre première connexion! <Pour ajouter MSN, Yahoo, ICQ et AIM contacts sélectionnez "IM passerelles" dans le menu ou la liste de contacts. <Pour ajouter des contacts s'il vous plaît sélectionnez Ajouter un contact dans le menu.
+53	Situation initiale
+54	Chargement en cours ...
+55	Contact Identifiant
+56	Serveurs explorer
+57	Nom
+58	Surnom
+59	Avez-vous déjà un compte jabber (GTalk, jabber.org, ...)?
+60	Nouveau contact
+61	l'état de transfert de fichier
+62	finale
+63	en cours
+64	Pas de transfert de fichiers actifs
+65	Confirmer
+66	mots de passe ne correspondent pas
+67	disponible
+68	en attente d'acceptation
+69	Refusé
+70	Une fois connecté, vous pourrez ajouter Jabber, MSN, Yahoo, ICQ et AIM contacts
+71	Clavier config
+72	Fermer l'application
+73	message Vieux
+74	Lampiro priorité est inférieur à un des autres clients, vous pouvez le modifier dans l'écran d'état
+75	détiennent sur téléphone, message non lu pourrait rester pendant un certain temps
+76	Nouvelles
+77	Services
+78	Envoyer le code
+79	Mise à jour
+80	a été mis à jour pour la version SOFTWARE_VERSION. Essayez de réinitialiser la configuration en cas de dysfonctionnement.
+81	E-mail
+82	Abonnement
+83	Ressources
+84	JID
+85	fois
+86	à
+87	à partir de
+88	inconnu
+89	none
+90	Ne vous voulez vous connecter à nouveau?
+91	Activer
+100	Ecrire un message
+101	Chat avec
+102	Clear chat
+103	... les nouveaux messages ...
+104	urls utilisation
+105	contact Inviter
+106	Développer
+107	avant le message sélectionné
+108	avant
+109	Pour
+110	message transmis par
+111	participants
+112	nom affiché
+113	automatique
+114	Manuel
+115	OK
+200	Jabber ID
+201	en option
+202	Adresse e-mail
+203	Créer un nouveau compte
+204	connexion Lampiro
+205	Échec de l'enregistrement
+206	Impossible de créer l'utilisateur souhaité. Raison:
+207	Échec de la connexion
+208	Échec de la connexion avec les paramètres actuels. Raison:
+209	Options avancées
+210	serveur de connexion
+211	Exploitation forestière en ..
+212	Groupe chat
+213	Choisir le nom
+214	Accepter un chat en groupe invitation
+215	Laissez le chat en groupe
+216	a rejoint le
+217	a quitté la
+218	Sujet
+219	le sujet Set
+220	enregistrement non autorisé.
+221	nom d'utilisateur existe déjà.
+222	Activer la compression
+223	Lampiro nécessite une connexion de l'air. Si vous êtes invité, vous devez autoriser Lampiro d'utiliser une connexion de l'air. Certains serveurs ne supportent pas la compression ou TLS. Si vous rencontrez des problèmes de connexion s'il vous plaît essayer de désactiver ces fonctions.
+224	Note
+225	Activer TLS
+226	connexion d'arrêt
+227	Il semble que c'est la première fois que vous exécutez Lampiro. <Si les touches de menu ne fonctionnent pas appuyer sur le "Key Configuration" commande dans l'écran suivant pour lancer l'outil de configuration importants. <Taille de la police, un clavier et d'autres options peuvent être choisies avec l'écran de configuration sur l'écran liste. <Appuyez sur FIRE pour continuer.
+228	S'il vous plaît appuyez sur le bouton que vous souhaitez associer au menu de gauche.
+229	S'il vous plaît appuyez sur la touche que vous souhaitez associer au menu de droite.
+230	S'il vous plaît confirmer la touche menu de gauche.
+231	S'il vous plaît confirmer la touche menu de droite.
+232	Merci, appuyez sur une touche pour continuer.
+233	S'il vous plaît appuyez à nouveau sur la même clé!
+234	La clé sélectionnée n'est pas valide
+235	Appuyez sur la touche
+236	Habituellement, la clé est positionné en dessous du menu actuellement affiché.
+237	touches Configuration
+238	La connexion a échoué
+239	Connexion perdue
+240	Nom d'utilisateur incorrect ou mot de passe
+241	connectés
+242	TLS initialisé
+243	Compression initialisé
+244	authentifiés
+245	initialisée
+246	Reset config et connexion
+247	Réinitialiser toutes les données et connexion
+248	Supprimer groupe chat
+249	Nom de la salle
+250	Rejoindre le groupe chat
+251	Ajouter aux favoris
+252	Oui, toujours
+253	Non, jamais
+254	Joigne	-vous à créer un groupe de chat
+255	Oui, à partir de seulement Lampiro
+256	Oui, d'autres clients que
+257	autojoin
+258	d'invitation envoyée aux
+259	contact Renommer
+260	commande info
+261	données
+262	Connexion
+263	Les données présentées: l'attente d'une réponse du serveur
+264	Commande annulée: en attente d'une réponse du serveur
+265	La tâche a été annulée avec succès
+266	tâche terminée
+267	Une erreur s'est produite lors de l'exécution de la tâche
+268	Type de serveur
+300	Envoyer un message à
+500	Remplissez le formulaire 
+700	Envoyer un message
+701	Chat
+702	Modifier contact
+703	Ajouter un contact
+704	Supprimer contact
+705	Définir le statut
+706	Liste des contacts
+707	commandes Query
+708	Liste des commandes
+709	Recharger Contacts
+710	tâches en attente
+711	Voir les détails
+712	Capture de l'image
+713	Capture
+714	Image
+715	Contacts
+716	Nom de fichier
+718	souhaite vous envoyer ce fichier:
+719	Transfert de fichiers
+720	Enregistrement audio
+721	Audio
+722	Stop
+723	Écouter
+724	albums multimédia
+725	Sauf en multimédia album
+727	ne peut pas accepter le transfert de fichier:
+728	Impossible de traiter le fichier:
+729	Envoyer un fichier
+730	fichier Actualiser
+731	Envoyer photo
+732	Envoyer audio
+733	Ungrouped
+734	Recherche
+735	Points saillants
+736	Créer des groupes
+737	Liste des groupes
+738	Nouveau groupe
+739	Groupes existants
+740	Déplacer
+741	Open
+742	élargi
+743	Déconnexion
+744	est
+745	en ligne
+746	déconnecté
+747	Envoyer un message groupe
+748	Taille
+749	<FIRE> Appuyez pour capturer
+751	Renvoyer l'autorisation 
+752	autorisation Re-demande
+753	L'écran de votre album est vide. Vous devez d'abord capturer l'audio ou des images.
+754	Gérer le chat en groupe
+755	Suppression d'un chat en groupe se retirer définitivement et tous les utilisateurs seront déconnectés; cette opération ne peut être annulée.
+756	comptes de messagerie instantanée
+757	Connectez / Déconnexion
+758	Réseau unregister
+759	sessions actives
+760	Changer le nom du groupe
+761	Nouvelle version
+762	Le présent communiqué n'est pas jusqu'à Lampiro-todate. S'il vous plaît mettre à niveau le site de téléchargement.
+800	Définir le statut
+801	Choisir le statut
+802	message d'état
+803	Priorité
+804	des ressources
+900	Demande d'abonnement
+901	veut modifier votre fichier
+902	Acceptez-vous?
+903	Accepter tous les 
+904	Toujours accepter
+905	demandes de souscription Présence
+908	envoyés à
+911	J'ai téléchargé un fichier pour vous à:
+912	Rejeter
+1001	Choisir une commande
+1002	Execute
+1003	Historique de la tâche
+1004	Pas de commandes disponibles.
+1005	commandes disponibles pour:
+1101	Une erreur s'est produite lors du traitement de la commande
+1200	options de configuration
+1201	Lors de la réception de nouveaux messages
+1202	Vibreur si Lampiro est
+1203	cachée
+1204	active
+1205	Joue ton si Lampiro est
+1206	volume Tone
+1207	intervalle Keep-alive
+1208	Certains nouveaux paramètres peut prendre effet après redémarrage suivant
+1209	Thème
+1210	Rouge
+1211	vert
+1212	Blue
+1213	petits
+1214	Medium
+1215	Big
+1216	Taille de la police
+1217	Les options par défaut
+1218	taille de l'historique Chat
+1219	taille album multimédia
+1220	Activer clavier qwerty
+1221	Orange
+1222	Résolution de l'appareil
+1223	par défaut
+1224	Low <160x120>
+1225	Medium <320x240>
+1226	Haut <640x480>
+1227	Enorme <1024x768>
+1228	Erreur d'accès au téléphone appareil photo
+1229	taille de la police Menu
+1300	mises à jour nouvelles
+1301	comptent nouvelles enregistrées
+1302	Marquer comme non lu
+1303	Le message a été transmis
+1304	Afficher toutes les
+1305	non lus
+1306	Tout marquer comme lu
+1307	Suppression de l'alimentation
+1308	à charger
+1309	Synchroniser	
+1310	La synchronisation des données fait
+1311	Synchroniser tous les flux
+1312	Vous n'êtes pas inscrit à tous les aliments pour le moment.
+1313	Synch et hors ligne
+1314	SYNC STOP
+1315	Statut de la synchronisation
+100000	mannequin
